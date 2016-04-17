@@ -1,6 +1,6 @@
 # hello-world
 
-# Hi sanidhya 
+# Hi Sanidhya 
 
 Sanidhya here, I like to build the hybrid mobile application.
 
